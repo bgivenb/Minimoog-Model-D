@@ -1,0 +1,6 @@
+.deps/
+build/
+dist/
+.vs/
+*.user
+references/*.jpg
